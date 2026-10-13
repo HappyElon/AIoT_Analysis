@@ -11,14 +11,12 @@
             "id": "5588d4b6a5e1f185",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "06 Рынок/Рынок - сводная таблица.md",
-                "mode": "source",
-                "source": false
+                "file": "Рисунки/backscatter_device.svg"
               },
-              "icon": "lucide-file",
-              "title": "Рынок - сводная таблица"
+              "icon": "lucide-image",
+              "title": "backscatter_device"
             }
           }
         ]
@@ -190,12 +188,23 @@
   },
   "active": "5588d4b6a5e1f185",
   "lastOpenFiles": [
+    "06 Рынок/6BB20800",
+    "Рисунки/backscatter_link.svg",
+    "Рисунки/backscatter_spectrum.svg",
+    "Рисунки/cap_cycle.svg",
+    "Рисунки/coupling.svg",
+    "Рисунки/energy_chain.svg",
+    "Рисунки/history_timeline.svg",
+    "Рисунки/field_zones.svg",
+    "Рисунки/timeline.svg",
+    "02 Стандарты/Таймлайн.md",
+    "02 Стандарты/TR 38.769.md",
+    "06 Рынок/Рынок - сводная таблица.md",
     "00 Home.md",
     "06 Рынок/Рынок - сводная таблица.md.tmp.4708.23f22408e996",
     "06 Рынок/Рынок - сводная таблица.md.tmp.4708.8c2ea3cec7a1",
     "Глоссарий.md",
     "Открытые вопросы.md",
-    "06 Рынок/Рынок - сводная таблица.md",
     "06 Рынок/Компании.md",
     "06 Рынок/Кейс China Mobile и Huawei.md",
     "03 Классификации/Device 2a.md",
@@ -223,18 +232,7 @@
     "Templates/Устройство.md",
     "06 Рынок/Кейс China Mobile и Huawei (1).md",
     "06 Рынок/Компании (1).md",
-    "06 Рынок/Рынок - сводная таблица (1).md",
-    "04 Радиоинтерфейс/Физический уровень.md",
-    "04 Радиоинтерфейс/Позиционирование.md",
     "Рисунки/backscatter_device.svg",
-    "Рисунки/backscatter_link.svg",
-    "Рисунки/backscatter_spectrum.svg",
-    "Рисунки/cap_cycle.svg",
-    "Рисунки/coupling.svg",
-    "Рисунки/energy_chain.svg",
-    "Рисунки/field_zones.svg",
-    "Рисунки/history_timeline.svg",
-    "Рисунки/timeline.svg",
     "Рисунки/classifications.svg"
   ]
 }
